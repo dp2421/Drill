@@ -107,4 +107,4 @@ AttributeError: module 'turtle' has no attribute 'ubdo'
 >>> turtle.backward(85)
 >>> turtle.left(90)
 >>> turtle.forward(30)
->>> 
+>>>turtle.exitonclick()
